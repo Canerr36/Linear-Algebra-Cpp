@@ -210,11 +210,13 @@ The purpose is not only to create a usable library, but also to understand the u
 
 ---
 
-## 📄 License
+📄 License
 
-This project is licensed under the terms specified in the [`LICENSE`](LICENSE) file.
+This project is licensed under the GNU General Public License v2.0 (GPL-2.0).
 
-Please review the license before using, modifying, or distributing the project.
+See the LICENSE file for the full license text.
+
+Copyright © 2026 Caner Özyağcı
 
 ---
 
