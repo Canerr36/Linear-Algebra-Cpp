@@ -53,8 +53,8 @@ The long-term roadmap includes:
 
 * [x] Matrix creation
 * [x] Matrix multiplication
-* [ ] Matrix addition
-* [ ] Matrix subtraction
+* [x] Matrix addition
+* [x] Matrix subtraction
 * [ ] Scalar multiplication
 * [ ] Transpose
 * [ ] Determinant
