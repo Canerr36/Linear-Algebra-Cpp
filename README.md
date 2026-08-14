@@ -56,9 +56,9 @@ The long-term roadmap includes:
 * [x] Matrix addition
 * [x] Matrix subtraction
 * [ ] Scalar multiplication
-* [ ] Transpose
-* [ ] Determinant
-* [ ] Matrix inverse
+* [x] Transpose
+* [x] Determinant
+* [x] Matrix inverse
 
 ### Linear Algebra
 
