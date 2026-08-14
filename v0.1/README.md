@@ -38,4 +38,3 @@ The program asks for the matrix size, then the elements of matrix A and matrix B
 - [ ] Unit tests
 
 ## License
-
