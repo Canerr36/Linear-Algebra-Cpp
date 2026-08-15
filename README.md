@@ -55,7 +55,7 @@ The long-term roadmap includes:
 * [x] Matrix multiplication
 * [x] Matrix addition
 * [x] Matrix subtraction
-* [ ] Scalar multiplication
+* [x] Scalar multiplication
 * [x] Transpose
 * [x] Determinant
 * [x] Matrix inverse
@@ -65,7 +65,7 @@ The long-term roadmap includes:
 * [ ] Vector support
 * [ ] Identity matrices
 * [ ] Diagonal matrices
-* [ ] LU decomposition
+* [x] LU decomposition
 * [ ] QR decomposition
 * [ ] Gaussian elimination
 * [ ] Rank
