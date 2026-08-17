@@ -66,9 +66,9 @@ The long-term roadmap includes:
 * [ ] Identity matrices
 * [ ] Diagonal matrices
 * [x] LU decomposition
-* [ ] QR decomposition
-* [ ] Gaussian elimination
-* [ ] Rank
+* [x] QR decomposition
+* [x] Gaussian elimination
+* [x] Rank
 * [ ] Eigenvalues
 * [ ] Eigenvectors
 
